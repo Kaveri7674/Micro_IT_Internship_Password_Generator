@@ -1,5 +1,4 @@
-# Micro-IT-Internship-
-password generator using Python:
+# Micro-IT-Internship-PASSWORD GENERATOR USING PYTHON :
 
 Password Generator in Python
 This Python program generates secure, random passwords based on user-specified criteria. It allows the user to define the desired length of the password and whether to include different types of characters such as:
